@@ -1,0 +1,4 @@
+171x256 RGB, ranks 5/20/50, Float64, BLAS threads=1, median of 5 warm runs
+Separate factorizations: 198.253 ms, 27915328 allocated bytes
+Shared factorizations:   64.683 ms, 11714816 allocated bytes
+Speedup: 3.06x; allocation reduction: 2.38x

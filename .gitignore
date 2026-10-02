@@ -1,0 +1,6 @@
+/c/test_svd
+/c/test_randomized
+/c/bench_svd
+/c/bench_randomized
+/c/image_compress
+/outputs/*.ppm
